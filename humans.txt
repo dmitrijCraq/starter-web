@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Dmitrij David Padalino Montenero	dmitrij@craq.it	@davidMonnuar
 
 # THANKS
 
